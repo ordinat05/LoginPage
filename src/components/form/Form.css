@@ -1,0 +1,10 @@
+.form {
+  background-color: orange;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 15px 15px rgba(0, 0, 0, 0.5);
+  /* width: 300px; */
+}
